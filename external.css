@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Zen+Dots&display=swap');
+h1{
+    background-color: rgb(226, 43, 226);
+    font-size:100;
+    color:black;font-family: 'Zen Dots', cursive;
+    
+}
+p{
+    background-color: darksalmon;
+    font: 20px;
+    color:black;
+    font-family: 'Pacifico', cursive;
+}
