@@ -1,0 +1,28 @@
+*{
+    font-size:10px;
+    /* background: linear-gradient(to left, red, orange, yellow,green,blue,indigo,violet); */
+    background-image: url("pexels-helena-lopes-2253275.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#heading{
+    background-color: bisque;
+    font-size: 40px;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.paragraph{
+    background-color:aquamarine;
+    font-size: 40px;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p2{
+    background-color: chartreuse;
+    font-size: 40px;
+    color:black;
+    font-family: cursive;
+    font-style: italic;
+}
